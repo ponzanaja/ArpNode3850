@@ -14,8 +14,8 @@ const intSpeed = [1, 3, 6, 1, 2, 1, 2, 2, 1, 5]
 
 
 const nodeNIP = '10.4.15.1'
-const nName = 'Node3'
-const firebaseKey = '-L46xegEleuKcTnJXDjB'
+const nName = 'Node3850'
+const firebaseKey = '-L46xegEleuKcTnJXDjH'
 /* root / root1234 10.4.15.1  192.168.1.254*/ 
 const {exec} = require('child_process')
 
